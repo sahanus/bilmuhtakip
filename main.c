@@ -3,6 +3,9 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("deneme1 merhaba bilmuh");
+
+    printf("slm nbr!\n");
+
     return 0;
 }
