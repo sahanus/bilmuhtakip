@@ -7,5 +7,6 @@ int main()
 
     printf("slm nbr!\n");
     printf("iyi nolsun ya!\n");
+     printf("napiyon\n");
     return 0;
 }
